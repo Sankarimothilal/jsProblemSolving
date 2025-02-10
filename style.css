@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: wheat;
+
+}
+button{
+    margin:20px;
+}
+.AtmApplication, .onlineshop, .grading, .traffic, .movieticket, .job, .ecom, .Electricity, .fmem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    text-align: center;
+}
+
+.ip {
+    display: block;
+}
+/* Online shopping */
+h3 {
+    color: blue;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flightticket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
